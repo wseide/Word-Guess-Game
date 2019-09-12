@@ -1,0 +1,33 @@
+body {
+    background-image: url("../images/halloweenbackground.jpg");
+    text-align: center;
+    font-family: 'Courier New', Courier;
+   }
+
+   header {
+background-color: black;
+height: 150px;
+border-radius: 25;
+border: 2px solid #FF941F;
+text-align: center;
+color: white;
+vertical-align: middle;
+line-height: 175px;
+font-family: "Times New Roman";
+   }
+
+footer {
+ background-color: black;
+ border: 2px solid #FF941F;
+position: absolute;
+left: 0;
+bottom: 0;
+ height: 100px;
+ width: 100%;
+overflow: hidden;
+ text-align: center;
+color: white;
+vertical-align: middle;
+line-height: 100px;
+font-family: "Times New Roman";
+}
